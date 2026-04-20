@@ -1,6 +1,6 @@
 {
   "name": "chatbot-flow-builder-starter-kit",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "Chatbot flow builder using React and try to make the code extensible to easily add new features.",
   "main": "src/index.ts",
   "scripts": {
